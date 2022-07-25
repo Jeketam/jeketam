@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="{https://img.shields.io/badge/Fandom%20Coders%20Coven-Member-blue?style=for-the-badge}" />
+
 <!--
 **Jeketam/jeketam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
